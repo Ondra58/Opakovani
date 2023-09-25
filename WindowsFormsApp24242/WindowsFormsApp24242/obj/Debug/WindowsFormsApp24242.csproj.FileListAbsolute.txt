@@ -1,0 +1,10 @@
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp24242\WindowsFormsApp24242\bin\Debug\WindowsFormsApp24242.exe.config
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp24242\WindowsFormsApp24242\bin\Debug\WindowsFormsApp24242.exe
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp24242\WindowsFormsApp24242\bin\Debug\WindowsFormsApp24242.pdb
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp24242\WindowsFormsApp24242\obj\Debug\WindowsFormsApp24242.csprojAssemblyReference.cache
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp24242\WindowsFormsApp24242\obj\Debug\WindowsFormsApp24242.Form1.resources
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp24242\WindowsFormsApp24242\obj\Debug\WindowsFormsApp24242.Properties.Resources.resources
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp24242\WindowsFormsApp24242\obj\Debug\WindowsFormsApp24242.csproj.GenerateResource.cache
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp24242\WindowsFormsApp24242\obj\Debug\WindowsFormsApp24242.csproj.CoreCompileInputs.cache
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp24242\WindowsFormsApp24242\obj\Debug\WindowsFormsApp24242.exe
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp24242\WindowsFormsApp24242\obj\Debug\WindowsFormsApp24242.pdb
